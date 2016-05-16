@@ -1,0 +1,28 @@
+name: We Are
+favicon: null
+layout_spectrum: 0.6731870786752552
+typography_spectrum: 0.33227461483329535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8353877121116966
+  lightness: 0.8652378618717194
+  saturation: 0.4056021242868155
+  rhythmicContrast: 0.09555972623638809
+purpose: []
